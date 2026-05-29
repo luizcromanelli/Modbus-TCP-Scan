@@ -10,7 +10,7 @@ O **Modbus Scan v1.6** é uma **ferramenta totalmente gratuita (Free)**, desenvo
 
 * **Sistemas Operacionais:** Totalmente compatível com **Windows 7, 8, 10 e 11**.
 * **Arquiteturas:** Suporte nativo para sistemas de **32 bits (x86)** e **64 bits (x64)**.
-* **Portabilidade:** Software portátil (Standalone) — funciona diretamente do pendrive, sem necessidade de instalação, privilégios de administrador ou dependências do Python.
+* **Portabilidade:** Software portátil (Standalone) funciona diretamente do pendrive, sem necessidade de instalação, privilégios de administrador ou dependências do Python.
 
 ---
 
