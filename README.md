@@ -2,7 +2,7 @@
 
 Uma ferramenta gráfica (GUI) leve, rápida e de classe industrial projetada para varredura, diagnóstico e monitoramento em tempo real de redes **Modbus TCP**.
 
-O **Modbus Scan v1.6** é uma **ferramenta totalmente gratuita (Free)**, desenvolvida em Python utilizando `tkinter`. O software foi severamente otimizado e estruturado com máscaras de validação de dados e uma máquina de estados inteligente para tratamento de falhas, garantindo estabilidade absoluta em ambientes industriais hostis e imprevisíveis.
+O **Modbus Scan v1.6** é uma **ferramenta totalmente gratuita (Free)**, desenvolvida em Python utilizando `(https://pypi.org/project/pyModbusTCP/)`. O software foi severamente otimizado e estruturado com máscaras de validação de dados e uma máquina de estados inteligente para tratamento de falhas, garantindo estabilidade absoluta em ambientes industriais hostis e imprevisíveis.
 
 ---
 
