@@ -41,9 +41,15 @@ Diferente de escaneadores genéricos que travam, congelam ("Não Respondendo") o
 
 Não é necessário instalar Python, gerenciar dependências ou digitar comandos no terminal para o trabalho de campo.
 
-1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/archive/refs/heads/main.zip).
+1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Poll/releases/latest/download/ModbusScan_v1.6.exe).
 2. Baixe o arquivo `ModbusScan_v1.6.exe`.
 3. Dê um duplo clique e execute nativamente em qualquer máquina Windows.
+
+> ⚠️ **Instruções Importantes de Execução (Windows SmartScreen):**
+> Por ser um utilitário portátil gratuito e não assinado digitalmente com certificados corporativos, o Windows Defender exibirá a tela *"O Windows protegeu o computador"*. O arquivo é 100% seguro. Para liberar a execução, siga um dos dois métodos abaixo:
+> 
+> * **Método 1 (Na tela do alerta):** Na janela do aviso do SmartScreen, clique no link de texto **"Mais informações"** (*More info*) e, em seguida, clique no botão que aparecerá chamado **"Executar assim mesmo"** (*Run anyway*).
+> * **Método 2 (Nas propriedades do arquivo):** Antes de abrir, clique com o **botão direito** sobre o arquivo `ModbusScan_v1.6.exe` baixado, vá em **Propriedades**, marque a caixa de seleção **"Desbloquear"** (*Unblock*) localizada na parte inferior da aba Geral e clique em **Aplicar/OK**.
 
 ---
 
