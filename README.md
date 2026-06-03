@@ -41,7 +41,7 @@ Diferente de escaneadores genéricos que travam, congelam ("Não Respondendo") o
 
 Não é necessário instalar Python, gerenciar dependências ou digitar comandos no terminal para o trabalho de campo.
 
-1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/archive/refs/heads/main.zip) deste repositório.
+1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/archive/refs/heads/main.zip).
 2. Baixe o arquivo `ModbusScan_v1.6.exe`.
 3. Dê um duplo clique e execute nativamente em qualquer máquina Windows.
 
