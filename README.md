@@ -1,3 +1,5 @@
+[**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip)
+
 # Modbus TCP Scan v1.6  🚀
 
 Uma ferramenta gráfica (GUI) leve, rápida e de classe industrial projetada para varredura, diagnóstico e monitoramento em tempo real de redes **Modbus TCP**.
@@ -41,7 +43,7 @@ Diferente de escaneadores genéricos que travam, congelam ("Não Respondendo") o
 
 Não é necessário instalar Python, gerenciar dependências ou digitar comandos no terminal para o trabalho de campo.
 
-1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/archive/refs/heads/main.zip).
+1. Clique aqui em [**Download**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip).
 2. Baixe o arquivo `ModbusScan_v1.6.exe`.
 3. Dê um duplo clique e execute nativamente em qualquer máquina Windows.
 
