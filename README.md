@@ -9,7 +9,7 @@
 ## 🇺🇸 English Version
 
 ### 📦 Download
-* Direct Link: [**Download ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Poll/releases/latest/download/ModbusScan_v1.6.exe)
+* Direct Link: [**Download ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip)
 
 A lightweight, fast, and industrial-grade graphical tool (GUI) designed for real-time scanning, diagnostics, and monitoring of Modbus TCP networks.
 Modbus Scan v1.6 is a completely free tool (Free), developed in Python using pyModbusTCP. The software was severely optimized and structured with data validation masks and an intelligent state machine for fault handling, ensuring absolute stability in harsh and unpredictable industrial environments.
@@ -41,7 +41,7 @@ Unlike generic scanners that crash, freeze ("Not Responding"), or close by thems
 ### 🚀 How to Run (Pre-Compiled Executable)
 
 Python installation, dependency management, or terminal commands are not required for field work.
-1. Click here for [**Direct Download of ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Poll/releases/latest/download/ModbusScan_v1.6.exe).
+1. Click here for [**Direct Download of ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip).
 2. Save the file to your computer.
 3. Double-click and run natively on any Windows machine.
 
@@ -60,7 +60,7 @@ Distributed under the MIT license. Feel free to clone, open issues, or submit pu
 ## 🇧🇷 Versão em Português
 
 ### 📦 Download
-* Link Direto: [**Baixar ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Poll/releases/latest/download/ModbusScan_v1.6.exe)
+* Link Direto: [**Baixar ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip)
 
 Uma ferramenta gráfica (GUI) leve, rápida e de classe industrial projetada para varredura, diagnóstico e monitoramento em tempo real de redes Modbus TCP.
 O Modbus Scan v1.6 é uma ferramenta totalmente gratuita (Free), desenvolvida em Python utilizando pyModbusTCP. O software foi severamente otimizado e estruturado com máscaras de validação de dados e uma máquina de estados inteligente para tratamento de falhas, garantindo estabilidade absoluta em ambientes industriais hostis e imprevisíveis.
@@ -92,7 +92,7 @@ Diferente de escaneadores genéricos que travam, congelam ("Não Respondendo") o
 ### 🚀 Como Executar (Executável Pré-Compilado)
 
 Não é necessário instalar Python, gerenciar dependências ou digitar comandos no terminal para o trabalho de campo.
-1. Clique aqui para fazer o [**Download Direto do ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Poll/releases/latest/download/ModbusScan_v1.6.exe).
+1. Clique aqui para fazer o [**Download Direto do ModbusScan_v1.6.exe**](https://github.com/luizcromanelli/Modbus-TCP-Scan/releases/download/1.6/ModbusScan_v1.6.zip).
 2. Salve o arquivo em seu computador.
 3. Dê um duplo clique e execute nativamente em qualquer máquina Windows.
 
